@@ -246,7 +246,7 @@ function ClientChat({
       addBotMessage("⏳ Detectando tokens na sua carteira...");
 
       // const wallet_asset = await getAccountAssets(wallet.publicKey);
-      addBotMessage(`Detectando tokens... ${wallet_asset.length} encontrados.`);
+      // addBotMessage(`Detectando tokens... ${wallet_asset.length} encontrados.`);
 
       // TODO: Detectar tokens reais da carteira
       setDetectedTokens([
