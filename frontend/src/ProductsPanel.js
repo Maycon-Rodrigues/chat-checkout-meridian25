@@ -50,7 +50,7 @@ function ProductsPanel({ vendor, onBack }) {
 
       // ✅ USAR API SERVICE
       const result = await apiService.getProductsByMerchant(
-        (merchantId = vendorId),
+        "b65d1e8c-9471-47d1-944d-48874c08954d",
       );
 
       if (result.success) {
