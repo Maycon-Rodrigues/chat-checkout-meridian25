@@ -219,33 +219,33 @@ function ClientChat({
 
       setCheckoutStep("detect");
 
-      if (!wallet) {
-        wallet = await stellarPassKey.connectWallet();
-        addBotMessage(
-          "⚠️ Nenhuma carteira Stellar detectada. Por favor, instale uma extensão Freighter, Albedo ou conect com Passkey e tente novamente.",
-          { error: true },
-        );
-        setCheckoutStep(null);
-        return;
-      }
+      // if (!wallet) {
+      //   wallet = await stellarPassKey.connectWallet();
+      //   addBotMessage(
+      //     "⚠️ Nenhuma carteira Stellar detectada. Por favor, instale uma extensão Freighter, Albedo ou conect com Passkey e tente novamente.",
+      //     { error: true },
+      //   );
+      //   setCheckoutStep(null);
+      //   return;
+      // }
 
       addBotMessage("🔗 Conectando com sua carteira Stellar...");
-      addBotMessage(`👤 Conta: ${wallet.publicKey}`);
+      // addBotMessage(`👤 Conta: ${wallet.publicKey}`);
 
-      getAccountAssets(wallet.publicKey);
+      // getAccountAssets(wallet.publicKey);
 
-      // TODO: Integrar com Freighter/Albedo
-      // Por enquanto, simular conexão
-      // await new Promise((resolve) => setTimeout(resolve, 1500));
+      // // TODO: Integrar com Freighter/Albedo
+      // // Por enquanto, simular conexão
+      // // await new Promise((resolve) => setTimeout(resolve, 1500));
 
-      if (!walletConnected) {
-        setWalletConnected(true);
-        addBotMessage("✅ Carteira conectada! Analisando seus tokens...");
-      }
+      // if (!walletConnected) {
+      //   setWalletConnected(true);
+      //   addBotMessage("✅ Carteira conectada! Analisando seus tokens...");
+      // }
 
       addBotMessage("⏳ Detectando tokens na sua carteira...");
 
-      const wallet_asset = await getAccountAssets(wallet.publicKey);
+      // const wallet_asset = await getAccountAssets(wallet.publicKey);
       addBotMessage(`Detectando tokens... ${wallet_asset.length} encontrados.`);
 
       // TODO: Detectar tokens reais da carteira
