@@ -1,0 +1,213 @@
+# OBJEÇÕES ESPECÍFICAS: SOMMELIER DE CHÁ - VERSÃO OTIMIZADA PARA RAG
+
+## METADADOS DO PRODUTO
+- **Nome**: Menos Café Mais Chá
+- **Tipo**: Livro Digital + Método
+- **Autoras**: Carla e Carol - Sommeliers de Chá e Tea Baristas
+- **Preço**: R$ 38,00 à vista | 8x R$ 5,41
+- **Prazo de Entrega: Imediato, via email
+- **Promessa**: Reduzir café e descobrir chás especiais em 21 dias
+- **Público-alvo**: Pessoas que sofrem com efeitos negativos do café
+- **Duração**: Método 21 dias
+- **Formato**: Livro Digital
+
+## CREDENCIAIS DAS AUTORAS
+- **Sommeliers de Chá certificadas** (únicas no Brasil)
+- **Tea Baristas profissionais**
+- **Fundadoras da maior escola de chá online do Brasil**
+- **+70 empresas criadas por seus alunos**
+- **Consultorias para cafés, bares e lojas**
+- **Especialistas em transição café → chá**
+
+## BENEFÍCIOS ÚNICOS
+- ✅ Redução gradual (não elimina café 100%)
+- ✅ Chás robustos (para quem ama sabor forte)
+- ✅ Método científico (21 dias para criar hábito)
+- ✅ Preparo profissional (técnicas de Sommelier)
+- ✅ Energia estável (sem picos e quedas)
+- ✅ Melhora do sono (menos cafeína à noite)
+
+---
+
+## OBJEÇÕES ESPECÍFICAS DO PRODUTO
+
+### OBJEÇÃO: "Não consigo largar o café"
+**Categoria**: DEPENDENCIA_CAFE
+**Tipo**: Medo de mudança radical
+**Resposta**: "☕ Relaxa! Não é para largar totalmente! O método das Carla e Carol ensina a REDUZIR, não eliminar. 🎯 Muitos alunos continuam tomando 1 café pela manhã 📚 + Descobrem chás gostosos para o resto do dia 💪 Em 21 dias você escolhe quando quer café ou chá!"
+**Elementos-chave**: Redução gradual, flexibilidade, escolha
+
+### OBJEÇÃO: "Chá não tem o mesmo sabor forte"
+**Categoria**: SABOR
+**Tipo**: Dúvida sobre intensidade
+**Resposta**: "🔥 Essa é a magia dos chás especiais! As Sommeliers ensinam chás com sabores robustos: • Chá Preto: forte como café • Pu-erh: sabor terroso e intenso • Chai: especiarias marcantes • Earl Grey: bergamota aromática 💡 Você vai se surpreender com a variedade!"
+**Elementos-chave**: Chás robustos, variedade, especialistas
+
+### OBJEÇÃO: "Vai ser difícil mudar o hábito"
+**Categoria**: MUDANCA_HABITO
+**Tipo**: Resistência à mudança
+**Resposta**: "🌟 Por isso criaram o método de 21 dias! 📅 Passo a passo suave e gradual 🔄 Cada dia uma pequena mudança 💪 +70 empresas já criadas por alunos delas 😊 A transição é prazerosa, não sofrida 🎁 Você mantém o prazer, só muda a bebida!"
+**Elementos-chave**: Método gradual, prazer, prova social
+
+### OBJEÇÃO: "Não sei preparar chá direito"
+**Categoria**: CONHECIMENTO_TECNICO
+**Tipo**: Dúvida sobre preparo
+**Resposta**: "👩‍🍳 Por isso elas são SOMMELIERS! 📖 O livro ensina o preparo correto de cada chá: • Temperatura ideal da água • Tempo de infusão perfeito • Proporções certas • Truques profissionais 🏆 São as fundadoras da maior escola de chá do Brasil!"
+**Elementos-chave**: Expertise, técnicas profissionais, credibilidade
+
+### OBJEÇÃO: "R$ 38 por um livro digital?"
+**Categoria**: VALOR
+**Tipo**: Dúvida sobre preço
+**Resposta**: "💰 Vamos fazer a conta: • 1 consulta com nutricionista: R$ 150+ • Curso presencial de chás: R$ 300+ • Aqui: R$ 38 com expertise de 2 Sommeliers ☕ É menos que 10 cafés na padaria! 🎯 Investimento que pode mudar sua saúde para sempre"
+**Elementos-chave**: Comparação de preços, expertise, investimento em saúde
+
+### OBJEÇÃO: "Será que funciona mesmo?"
+**Categoria**: EFICACIA
+**Tipo**: Dúvida sobre resultados
+**Resposta**: "📊 Os resultados falam por si: • +70 empresas criadas por alunos • Maior escola de chá do Brasil • Sommeliers certificadas internacionalmente • Centenas de pessoas já transformaram a saúde 💡 O método foi testado e aprovado por milhares!"
+**Elementos-chave**: Prova social, credibilidade, resultados comprovados
+
+### OBJEÇÃO: "Chá não vai me dar energia"
+**Categoria**: ENERGIA
+**Tipo**: Dúvida sobre efeito energético
+**Resposta**: "⚡ Energia mais estável e duradoura! ☕ Café: pico de energia + queda brusca 🍃 Chá: energia constante sem ansiedade 🧠 Teofilina do chá = energia mental focada 💤 + Você dorme melhor à noite 🔋 Energia real, sem crash!"
+**Elementos-chave**: Energia estável, teofilina, sono melhor
+
+### OBJEÇÃO: "Tenho preguiça de preparar chá"
+**Categoria**: PRATICIDADE
+**Tipo**: Dúvida sobre facilidade
+**Resposta**: "⏰ Mais fácil que fazer café! 💡 O livro ensina preparos rápidos: • Chás em sachês práticos • Métodos de 2-3 minutos • Preparos para levar • Receitas cold brew 🚀 Alguns são só água quente + sachê!"
+**Elementos-chave**: Facilidade, praticidade, métodos rápidos
+
+### OBJEÇÃO: "Não gosto do sabor de chá"
+**Categoria**: SABOR
+**Tipo**: Preferência de sabor
+**Resposta**: "🤔 Apostamos que você nunca provou os CERTOS! 😅 Chá de mercado ≠ Chás especiais 🎯 As Sommeliers selecionaram chás para quem ama café: • Sabores intensos e complexos • Zero amargor • Aromas surpreendentes 💫 Prepare-se para mudar de opinião!"
+**Elementos-chave**: Chás especiais, seleção especializada, mudança de percepção
+
+### OBJEÇÃO: "Já tentei parar o café antes"
+**Categoria**: EXPERIENCIA_ANTERIOR
+**Tipo**: Falha em tentativas anteriores
+**Resposta**: "💪 Desta vez é diferente! ❌ Antes: parar de uma vez (sofrimento) ✅ Agora: método gradual de substituição 📚 Com orientação de especialistas 🔄 Transição suave e prazerosa 🎯 +70 cases de sucesso comprovam que funciona!"
+**Elementos-chave**: Diferenciação, método gradual, orientação especializada
+
+### OBJEÇÃO: "Minha família/trabalho só toma café"
+**Categoria**: AMBIENTE_SOCIAL
+**Tipo**: Pressão social
+**Resposta**: "👥 Perfeito para ser o pioneiro! 🌟 Você pode inspirar outros com os resultados ☕ Continue social nos cafés da turma 🏠 + Tenha seu momento chá em casa 💡 Muitos relatam que a família aderiu depois! 🎁 Pode até presentear quem se interessar"
+**Elementos-chave**: Pioneirismo, inspiração, equilíbrio social
+
+### OBJEÇÃO: "Não tenho tempo para ler"
+**Categoria**: TEMPO
+**Tipo**: Limitação de tempo
+**Resposta**: "📱 Livro digital = lê onde e quando quiser: • No trânsito (audio disponível?) • Na pausa do trabalho • Antes de dormir • Fins de semana ⏰ São só 21 dias, 10-15 min por dia 📖 Conhecimento que dura a vida toda!"
+**Elementos-chave**: Flexibilidade, formato digital, tempo mínimo
+
+### OBJEÇÃO: "E se não der resultado comigo?"
+**Categoria**: RISCO
+**Tipo**: Medo de não funcionar
+**Resposta**: "🛡️ Risco zero! ✅ Método testado por milhares 🏆 Criado por Sommeliers especialistas 💰 Investimento mínimo (R$ 38) 🔄 Pode voltar ao café se não gostar 💡 Mas apostar que em 21 dias você vai amar os chás!"
+**Elementos-chave**: Risco baixo, investimento mínimo, flexibilidade
+
+---
+
+## SCRIPTS ESPECÍFICOS PARA CHAT
+
+### ABORDAGEM_INICIAL_SOMMELIER
+**Contexto**: Cliente interessado no produto
+**Script**: "Oi! Vi que você está interessado no 'Menos Café Mais Chá'! Também sofre com aquela ansiedade pós-café? Ou dor de estômago depois do terceiro cafezinho? 😅 O método das Carla e Carol pode ser exatamente o que você precisa! Alguma dúvida específica sobre o livro?"
+**Elementos-chave**: Identificação de problemas, credibilidade das autoras
+
+### CLIENTE_HESITANTE_EFICACIA
+**Contexto**: Dúvida sobre eficácia do método
+**Script**: "Entendo a dúvida! Mas olha só: Carla e Carol são as únicas Sommeliers de Chá certificadas do Brasil Já criaram +70 empresas de chá com seus alunos Fundadoras da maior escola de chá online do país E o melhor: são só R$ 38! Menos que 2 consultas com nutricionista 💰 Quer começar a transformação hoje? ☕➡️🍃"
+**Elementos-chave**: Credibilidade, prova social, comparação de preços
+
+### OBJECAO_SABOR
+**Contexto**: Cliente não gosta de chá
+**Script**: "😅 'Não gosto de chá' é o que 90% fala antes de conhecer os ESPECIAIS! 🔥 O livro ensina chás com sabores intensos: • Chá Preto: forte como café expresso • Chai: especiarias que explodem na boca • Pu-erh: sabor terroso e robusto • Earl Grey: bergamota marcante ☕ Se você ama café, vai amar esses chás! Confia nas Sommeliers? 😉"
+**Elementos-chave**: Chás especiais, sabores intensos, credibilidade
+
+---
+
+## PERSONALIZAÇÃO POR PERFIL
+
+### PERFIL_ANSIEDADE_CAFE
+**Problema**: Ansiedade e tremedeira pós-café
+**Abordagem**: "😰 Aquela tremedeira depois do café? 🔄 Coração acelerado sem motivo? 🍃 Chás têm teofilina: energia SEM ansiedade! 📚 O livro ensina a transição perfeita para seu perfil 💤 + Você finalmente vai dormir bem!"
+**Elementos-chave**: Teofilina, energia sem ansiedade, sono melhor
+
+### PERFIL_AMANTE_SABOR_FORTE
+**Problema**: Viciado no sabor intenso do café
+**Abordagem**: "☕ Viciado no sabor intenso do café? 🔥 Espera conhecer: • Chá Preto Assam (robusto como espresso) • Pu-erh envelhecido (complexo como vinho) • Chai masala (especiarias explosivas) 🏆 Sommeliers garantem: sabores que surpreendem!"
+**Elementos-chave**: Chás robustos, sabores complexos, comparações
+
+### PERFIL_PROBLEMAS_ESTOMAGO
+**Problema**: Café atacando o estômago
+**Abordagem**: "😣 Café atacando o estômago? 💊 Tomando omeprazol todo dia? 🌿 Chás são naturalmente menos ácidos ✨ Alguns até ajudam na digestão 📖 O livro ensina quais são melhores para cada problema 🎯 Em 21 dias seu estômago vai agradecer!"
+**Elementos-chave**: Menos acidez, digestão, benefícios específicos
+
+---
+
+## URGÊNCIA E ESCASSEZ ESPECÍFICAS
+
+### URGENCIA_SAUDE
+**Contexto**: Cada dia com excesso de café
+**Script**: "⏰ Cada dia com excesso de café pode ser: • + Ansiedade acumulada • + Problemas no estômago • + Dificuldade para dormir • + Dependência aumentando 🌟 Por que não começar HOJE a mudança? Em 21 dias você pode estar livre desses problemas!"
+**Elementos-chave**: Consequências negativas, oportunidade de mudança
+
+### INVESTIMENTO_BAIXO
+**Contexto**: Justificativa do preço
+**Script**: "💭 Pensa assim: • R$ 38 = 8 cafés na padaria • Mas o conhecimento dura para sempre • E a saúde melhorada não tem preço 🎯 É literalmente o investimento de menor risco que você pode fazer na sua saúde!"
+**Elementos-chave**: Comparação de custos, investimento em saúde
+
+---
+
+## DADOS ESPECÍFICOS PARA USO
+
+### ESTATISTICAS_PRODUTO
+- **Preço**: R$ 38,00 à vista / 8x R$ 5,41
+- **Formato**: Livro Digital
+- **Duração**: Método 21 dias
+- **Especialidade**: Transição café → chá
+- **Credencial**: Sommeliers + Tea Baristas
+- **Histórico**: +70 empresas criadas por alunos
+
+### PROVA_SOCIAL
+- "Milhares de pessoas já reduziram o café com nosso método"
+- "Seus alunos se destacam no mercado de chás"
+- "Maior escola de chá do Brasil"
+- "+70 empresas criadas por alunos"
+- "Eventos presenciais lotados"
+
+### CHAS_ESPECIAIS_MENCIONADOS
+- **Chá Preto**: forte como café
+- **Pu-erh**: sabor terroso e intenso
+- **Chai**: especiarias marcantes
+- **Earl Grey**: bergamota aromática
+- **Chá Preto Assam**: robusto como espresso
+- **Pu-erh envelhecido**: complexo como vinho
+- **Chai masala**: especiarias explosivas
+
+---
+
+## ELEMENTOS-CHAVE PARA RAG
+
+### TAGS_FREQUENTES
+- sommeliers, tea_baristas, chas_especiais
+- reducao_gradual, metodo_21_dias, energia_estavel
+- ansiedade_cafe, problemas_estomago, insonia
+- sabores_robustos, preparo_profissional
+
+### PALAVRAS_CHAVE_ESPECIFICAS
+- "teofilina", "energia sem ansiedade"
+- "redução gradual", "não elimina 100%"
+- "chás especiais", "sabores intensos"
+- "método científico", "21 dias"
+- "sommeliers certificadas", "maior escola"
+
+### COMPARACOES_EFICAZES
+- Café vs Chá (energia, ansiedade, sono)
+- Preço vs Consulta nutricionista
+- Chá de mercado vs Chás especiais
+- Método gradual vs Parar de uma vez
